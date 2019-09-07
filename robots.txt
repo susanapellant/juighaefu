@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eyuidiaque.witsacco.com/sitemap.xml
